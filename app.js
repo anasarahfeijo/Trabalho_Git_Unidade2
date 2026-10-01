@@ -22,7 +22,7 @@ elDecrement.addEventListener("click", () => {
 });
 
 elToggleTheme.addEventListener("click", () => {
-  state.dark = !state.dark;
+  state.dark = state.dark;
   document.documentElement.style.setProperty("--bg", state.dark ? "#ff00d4" : "#17ebb6");
   document.documentElement.style.setProperty("--text", state.dark ? "#2885ff" : "#dbff0e");
   elTitle.textContent = state.dark ? "Mini App – Modo Escuro" : "Mini App – GitFlow";
