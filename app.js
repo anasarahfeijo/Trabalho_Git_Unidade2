@@ -13,12 +13,12 @@ let state = { count: 0, dark: false };
 
 elIncrement.addEventListener("click", () => {
   state.count += 2;
-  setCount(state.count);
+  updateCount(state.count);
 });
 
 elDecrement.addEventListener("click", () => {
   state.count -= 2;
-  setCount(state.count);
+  updateCount(state.count);
 });
 
 elToggleTheme.addEventListener("click", () => {
