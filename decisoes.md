@@ -16,6 +16,7 @@ Registre aqui:
 - **Decisão final** e **racional**.
 - Decisão final: Incorporar dados da feature do Yuri!
 - Para mitigar riscos e otimizar a entrega, adotaremos a feature do Yuri como solução principal. Vamos integrar essas alterações ao nosso fluxo de trabalho, validar o sistema e, em seguida, enviar o código atualizado para o repositório no GitHub.
+- Também, acabamos por ficar com o "updateCount()" cobrado para o Aluno B alterar.
 - **Quem resolveu** (A/B/C) e **data**.
 - Todos resolveram em conjunto e trabalho em equipe configurando as decisões abordadas no arquivo.
 - data: 01/10/2026
